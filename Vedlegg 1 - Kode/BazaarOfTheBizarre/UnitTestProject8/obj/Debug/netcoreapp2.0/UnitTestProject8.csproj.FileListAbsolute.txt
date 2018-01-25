@@ -1,0 +1,16 @@
+C:\Users\Ralf\Documents\Visual Studio 2017\Projects\BazaarOfTheBizarre\UnitTestProject8\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Ralf\Documents\Visual Studio 2017\Projects\BazaarOfTheBizarre\UnitTestProject8\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Ralf\Documents\Visual Studio 2017\Projects\BazaarOfTheBizarre\UnitTestProject8\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Ralf\Documents\Visual Studio 2017\Projects\BazaarOfTheBizarre\UnitTestProject8\bin\Debug\netcoreapp2.0\UnitTestProject8.deps.json
+C:\Users\Ralf\Documents\Visual Studio 2017\Projects\BazaarOfTheBizarre\UnitTestProject8\bin\Debug\netcoreapp2.0\UnitTestProject8.runtimeconfig.json
+C:\Users\Ralf\Documents\Visual Studio 2017\Projects\BazaarOfTheBizarre\UnitTestProject8\bin\Debug\netcoreapp2.0\UnitTestProject8.runtimeconfig.dev.json
+C:\Users\Ralf\Documents\Visual Studio 2017\Projects\BazaarOfTheBizarre\UnitTestProject8\bin\Debug\netcoreapp2.0\UnitTestProject8.dll
+C:\Users\Ralf\Documents\Visual Studio 2017\Projects\BazaarOfTheBizarre\UnitTestProject8\bin\Debug\netcoreapp2.0\UnitTestProject8.pdb
+C:\Users\Ralf\Documents\Visual Studio 2017\Projects\BazaarOfTheBizarre\UnitTestProject8\bin\Debug\netcoreapp2.0\BazaarOfTheBizarre.dll
+C:\Users\Ralf\Documents\Visual Studio 2017\Projects\BazaarOfTheBizarre\UnitTestProject8\bin\Debug\netcoreapp2.0\BazaarOfTheBizarre.pdb
+C:\Users\Ralf\Documents\Visual Studio 2017\Projects\BazaarOfTheBizarre\UnitTestProject8\obj\Debug\netcoreapp2.0\UnitTestProject8.csprojResolveAssemblyReference.cache
+C:\Users\Ralf\Documents\Visual Studio 2017\Projects\BazaarOfTheBizarre\UnitTestProject8\obj\Debug\netcoreapp2.0\UnitTestProject8.csproj.CoreCompileInputs.cache
+C:\Users\Ralf\Documents\Visual Studio 2017\Projects\BazaarOfTheBizarre\UnitTestProject8\obj\Debug\netcoreapp2.0\UnitTestProject8.AssemblyInfoInputs.cache
+C:\Users\Ralf\Documents\Visual Studio 2017\Projects\BazaarOfTheBizarre\UnitTestProject8\obj\Debug\netcoreapp2.0\UnitTestProject8.AssemblyInfo.cs
+C:\Users\Ralf\Documents\Visual Studio 2017\Projects\BazaarOfTheBizarre\UnitTestProject8\obj\Debug\netcoreapp2.0\UnitTestProject8.dll
+C:\Users\Ralf\Documents\Visual Studio 2017\Projects\BazaarOfTheBizarre\UnitTestProject8\obj\Debug\netcoreapp2.0\UnitTestProject8.pdb

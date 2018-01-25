@@ -1,0 +1,33 @@
+C:\Users\Ralf\Documents\Visual Studio 2017\Projects\BazaarOfTheBizarre\BazaarOfTheBizarre\bin\Debug\netcoreapp2.0\BazaarOfTheBizarre.deps.json
+C:\Users\Ralf\Documents\Visual Studio 2017\Projects\BazaarOfTheBizarre\BazaarOfTheBizarre\bin\Debug\netcoreapp2.0\BazaarOfTheBizarre.runtimeconfig.json
+C:\Users\Ralf\Documents\Visual Studio 2017\Projects\BazaarOfTheBizarre\BazaarOfTheBizarre\bin\Debug\netcoreapp2.0\BazaarOfTheBizarre.runtimeconfig.dev.json
+C:\Users\Ralf\Documents\Visual Studio 2017\Projects\BazaarOfTheBizarre\BazaarOfTheBizarre\bin\Debug\netcoreapp2.0\BazaarOfTheBizarre.dll
+C:\Users\Ralf\Documents\Visual Studio 2017\Projects\BazaarOfTheBizarre\BazaarOfTheBizarre\bin\Debug\netcoreapp2.0\BazaarOfTheBizarre.pdb
+C:\Users\Ralf\Documents\Visual Studio 2017\Projects\BazaarOfTheBizarre\BazaarOfTheBizarre\obj\Debug\netcoreapp2.0\BazaarOfTheBizarre.csprojResolveAssemblyReference.cache
+C:\Users\Ralf\Documents\Visual Studio 2017\Projects\BazaarOfTheBizarre\BazaarOfTheBizarre\obj\Debug\netcoreapp2.0\BazaarOfTheBizarre.csproj.CoreCompileInputs.cache
+C:\Users\Ralf\Documents\Visual Studio 2017\Projects\BazaarOfTheBizarre\BazaarOfTheBizarre\obj\Debug\netcoreapp2.0\BazaarOfTheBizarre.AssemblyInfoInputs.cache
+C:\Users\Ralf\Documents\Visual Studio 2017\Projects\BazaarOfTheBizarre\BazaarOfTheBizarre\obj\Debug\netcoreapp2.0\BazaarOfTheBizarre.AssemblyInfo.cs
+C:\Users\Ralf\Documents\Visual Studio 2017\Projects\BazaarOfTheBizarre\BazaarOfTheBizarre\obj\Debug\netcoreapp2.0\BazaarOfTheBizarre.dll
+C:\Users\Ralf\Documents\Visual Studio 2017\Projects\BazaarOfTheBizarre\BazaarOfTheBizarre\obj\Debug\netcoreapp2.0\BazaarOfTheBizarre.pdb
+C:\Users\phili\Desktop\BazaarOfTheBizarre (1)\BazaarOfTheBizarre\BazaarOfTheBizarre\bin\Debug\netcoreapp2.0\BazaarOfTheBizarre.deps.json
+C:\Users\phili\Desktop\BazaarOfTheBizarre (1)\BazaarOfTheBizarre\BazaarOfTheBizarre\bin\Debug\netcoreapp2.0\BazaarOfTheBizarre.runtimeconfig.json
+C:\Users\phili\Desktop\BazaarOfTheBizarre (1)\BazaarOfTheBizarre\BazaarOfTheBizarre\bin\Debug\netcoreapp2.0\BazaarOfTheBizarre.runtimeconfig.dev.json
+C:\Users\phili\Desktop\BazaarOfTheBizarre (1)\BazaarOfTheBizarre\BazaarOfTheBizarre\bin\Debug\netcoreapp2.0\BazaarOfTheBizarre.dll
+C:\Users\phili\Desktop\BazaarOfTheBizarre (1)\BazaarOfTheBizarre\BazaarOfTheBizarre\bin\Debug\netcoreapp2.0\BazaarOfTheBizarre.pdb
+C:\Users\phili\Desktop\BazaarOfTheBizarre (1)\BazaarOfTheBizarre\BazaarOfTheBizarre\obj\Debug\netcoreapp2.0\BazaarOfTheBizarre.csprojResolveAssemblyReference.cache
+C:\Users\phili\Desktop\BazaarOfTheBizarre (1)\BazaarOfTheBizarre\BazaarOfTheBizarre\obj\Debug\netcoreapp2.0\BazaarOfTheBizarre.csproj.CoreCompileInputs.cache
+C:\Users\phili\Desktop\BazaarOfTheBizarre (1)\BazaarOfTheBizarre\BazaarOfTheBizarre\obj\Debug\netcoreapp2.0\BazaarOfTheBizarre.AssemblyInfoInputs.cache
+C:\Users\phili\Desktop\BazaarOfTheBizarre (1)\BazaarOfTheBizarre\BazaarOfTheBizarre\obj\Debug\netcoreapp2.0\BazaarOfTheBizarre.AssemblyInfo.cs
+C:\Users\phili\Desktop\BazaarOfTheBizarre (1)\BazaarOfTheBizarre\BazaarOfTheBizarre\obj\Debug\netcoreapp2.0\BazaarOfTheBizarre.dll
+C:\Users\phili\Desktop\BazaarOfTheBizarre (1)\BazaarOfTheBizarre\BazaarOfTheBizarre\obj\Debug\netcoreapp2.0\BazaarOfTheBizarre.pdb
+C:\Users\phili\Desktop\Vedlegg 1 - Kode\BazaarOfTheBizarre\BazaarOfTheBizarre\bin\Debug\netcoreapp2.0\BazaarOfTheBizarre.deps.json
+C:\Users\phili\Desktop\Vedlegg 1 - Kode\BazaarOfTheBizarre\BazaarOfTheBizarre\bin\Debug\netcoreapp2.0\BazaarOfTheBizarre.runtimeconfig.json
+C:\Users\phili\Desktop\Vedlegg 1 - Kode\BazaarOfTheBizarre\BazaarOfTheBizarre\bin\Debug\netcoreapp2.0\BazaarOfTheBizarre.runtimeconfig.dev.json
+C:\Users\phili\Desktop\Vedlegg 1 - Kode\BazaarOfTheBizarre\BazaarOfTheBizarre\bin\Debug\netcoreapp2.0\BazaarOfTheBizarre.dll
+C:\Users\phili\Desktop\Vedlegg 1 - Kode\BazaarOfTheBizarre\BazaarOfTheBizarre\bin\Debug\netcoreapp2.0\BazaarOfTheBizarre.pdb
+C:\Users\phili\Desktop\Vedlegg 1 - Kode\BazaarOfTheBizarre\BazaarOfTheBizarre\obj\Debug\netcoreapp2.0\BazaarOfTheBizarre.csprojResolveAssemblyReference.cache
+C:\Users\phili\Desktop\Vedlegg 1 - Kode\BazaarOfTheBizarre\BazaarOfTheBizarre\obj\Debug\netcoreapp2.0\BazaarOfTheBizarre.csproj.CoreCompileInputs.cache
+C:\Users\phili\Desktop\Vedlegg 1 - Kode\BazaarOfTheBizarre\BazaarOfTheBizarre\obj\Debug\netcoreapp2.0\BazaarOfTheBizarre.AssemblyInfoInputs.cache
+C:\Users\phili\Desktop\Vedlegg 1 - Kode\BazaarOfTheBizarre\BazaarOfTheBizarre\obj\Debug\netcoreapp2.0\BazaarOfTheBizarre.AssemblyInfo.cs
+C:\Users\phili\Desktop\Vedlegg 1 - Kode\BazaarOfTheBizarre\BazaarOfTheBizarre\obj\Debug\netcoreapp2.0\BazaarOfTheBizarre.dll
+C:\Users\phili\Desktop\Vedlegg 1 - Kode\BazaarOfTheBizarre\BazaarOfTheBizarre\obj\Debug\netcoreapp2.0\BazaarOfTheBizarre.pdb
